@@ -4,7 +4,6 @@ This repository contains the artifacts and details of DreamBooth training for ge
 
 ## Model Details
 
-- 
 - **Hugging Face Model Link:** [Dreambooth_training_of_Messi](https://huggingface.co/deadshot2003/Dreambooth_training_of_Messi/tree/main)
 
 ## Safetensors Download
