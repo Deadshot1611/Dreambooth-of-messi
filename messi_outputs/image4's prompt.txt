@@ -1,0 +1,3 @@
+8k hyper realistic photo of nyd messi wearing a black blazer, wearing black shades
+Negative prompt: bad quality, deformed, disfigured, ugly, ((deformed ears)),mutated
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3239715342, Size: 512x512, Model hash: 203d75ec9b, Model: messi_3200, Denoising strength: 0.5, Hires upscale: 2.5, Hires upscaler: ESRGAN_4x, Version: v1.8.0
